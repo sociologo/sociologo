@@ -1,3 +1,4 @@
+![2024-11-13 12 28 25](https://github.com/user-attachments/assets/b9ba0202-6dfd-40f6-b3cc-98b0d564f29e)
 Soy un sociólogo de la Universidad de Chile y analista programador de Inacap.
 
 Como desarrollador me especializo en Python, Django, React y R; como sociólogo investigo y creo aplicaciones para colaborar en salud pública y municipios.
